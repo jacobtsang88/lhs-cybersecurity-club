@@ -1,1 +1,1 @@
-mobile version of website.
+LHS cybersecurity website
