@@ -1,1 +1,1 @@
-LHS cybersecurity website
+The website for my highschool cybersecurity club.
